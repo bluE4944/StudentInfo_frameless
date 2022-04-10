@@ -1,0 +1,40 @@
+﻿
+
+
+/*web background*/
+.container{
+    display:table;
+    height:100%;
+}
+
+.row{
+    display: table-cell;
+    vertical-align: middle;
+}
+/* centered columns styles */
+.row-centered {
+    text-align:center;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    text-align:left;
+    margin-right:-4px;
+}
+.text-center{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.input-group{
+    margin-bottom: 20px;
+}
+.well{
+    border: 1px solid #b3b7bb ;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #888888;
+    background:rgba(240,255,255,0.6);
+}
+.Msg{
+    margin-left: 10px;
+    color: red;
+}

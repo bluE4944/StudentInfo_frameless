@@ -1,0 +1,136 @@
+﻿#page_left{
+    background-color: #2c323c;
+    color: white;
+    padding: 0px;
+    position:fixed;
+    left:0px;
+    top:0px;
+    z-index: 999;
+}
+.left_topCss{
+    color: white;
+    height: 65px;
+    font-size: 12px;
+    background-color: #2c323c;
+}
+
+/* 给li标签点击后的设置*/
+.active1{
+    background-color: #1d2127;
+    color: white;
+    border-left: 3px solid #0088cc;
+}
+/*给a标签添加的样式 */
+.a_style{
+    color: #abb4be;
+    height: 55px;
+    line-height: 39px;
+}
+
+.a_active{
+    color: white;
+}
+
+#page_right{
+    padding: 0px;
+}
+
+#right_top{
+    color: white;
+    height: 65px;
+    font-size: 14px;
+    background-color: #2c323c;
+    line-height: 60px;
+    border-bottom: 4px solid #e3e3e3;
+}
+#login_welcome{
+    padding: 0px;
+}
+
+.align-middle{
+    height: 50px;
+    font-size: 20px;
+    color: white;
+    line-height: 45px;
+    margin-left: 20px;
+}
+
+#login_out{
+    width: 160px;
+}
+
+#onNav{
+    padding: 0;
+    display: none;
+}
+
+
+#myTab a:hover{
+    color: white;
+}
+
+li:hover{
+    background-color: #1d2127;
+}
+
+.noPadding{
+    padding: 0px;
+}
+.riPadding_30{
+    padding-right: 30px;
+}
+
+.padding_15{
+    padding: 0px 15px;
+    align-content: center;
+    line-height: 38px;
+    margin: 0px;
+}
+
+.Width_60{
+    width: 60px;
+}
+.noMargin{
+    margin: 0px;
+}
+
+#buttons_front{
+    padding: 0px;
+    line-height: 90px;
+}
+#buttons_latter{
+    padding: 0px;
+    line-height: 80px;
+}
+
+.displayNone{
+    display: none;
+}
+
+
+tr:hover{
+    background-color: #d7eaff;
+}
+
+.purePadding_15{
+    padding: 0px 15px;
+}
+.ubPadding_15{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.basicBox{
+    margin: 20px 0px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.width240{
+    width: 240px;
+
+}
+
+.width50{
+    width: 63px;
+}
